@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+pdfminer.six
+httpx
+python-dotenv
+tiktoken
